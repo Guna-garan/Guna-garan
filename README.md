@@ -15,7 +15,7 @@ Built to help visually impaired users communicate with the sighted world
 React TypeScript YOLOv8 ONNX Runtime Web Tailwind CSS Vite
 
 🟣 SkillLens AI
-AI-powered resume screening system — built at a Hackathon
+AI-powered resume screening system 
 
 Semantically matches resumes to job descriptions using SentenceTransformers + cosine similarity
 Full REST API (7 endpoints), explainable candidate scoring, skill-gap detection
