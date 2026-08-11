@@ -239,21 +239,6 @@ Leading technical programming and chapter operations for the IEEE Computer Socie
 
 ---
 
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Guna-garan&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B794F6&icon_color=8A2BE2&text_color=E4D8FF&ring_color=7B2FF7" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guna-garan&theme=radical&hide_border=true&background=0D0221&ring=8A2BE2&fire=B794F6&currStreakLabel=B794F6" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-garan&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B794F6&text_color=E4D8FF" width="49%"/>
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
