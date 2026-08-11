@@ -264,16 +264,6 @@ Leading technical programming and chapter operations for the IEEE Computer Socie
 
 ---
 
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Guna-garan/Guna-garan/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## 🟣 Current Focus
 
 ```yaml
