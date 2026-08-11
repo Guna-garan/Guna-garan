@@ -233,11 +233,8 @@ Leading technical programming and chapter operations for the IEEE Computer Socie
 
 <div align="center">
 
-<a href="https://leetcode.com/Guna-garan"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.geeksforgeeks.org/user/Guna-garan"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
-<a href="https://www.hackerrank.com/Guna-garan"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/></a>
-<a href="https://www.codechef.com/users/Guna-garan"><img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
-
+<a href="https://leetcode.com/Gunagaran-S-K"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://www.geeksforgeeks.org/user/gunagaran"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
 </div>
 
 ---
