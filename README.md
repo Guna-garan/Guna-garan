@@ -254,16 +254,6 @@ Leading technical programming and chapter operations for the IEEE Computer Socie
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Guna-garan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
