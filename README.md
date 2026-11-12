@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Gunagaran%20S%20K&fontSize=55&fontColor=E4D8FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Product%20Engineering%20Mindset&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=B794F6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Applications;YOLOv8+%2B+ONNX+%7C+Computer+Vision+Engineer;React+%2B+TypeScript+%2B+FastAPI+Full+Stack;Secretary+%40+IEEE+Computer+Society; Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=B794F6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Applications;YOLOv8+%2B+ONNX+%7C+Computer+Vision+Engineer;React+%2B+TypeScript+%2B+FastAPI+Full+Stack;Secretary+%40+IEEE+Computer+Society;cTurning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
