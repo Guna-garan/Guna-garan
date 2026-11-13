@@ -282,7 +282,7 @@ current_focus:
 <a href="mailto:gunagaran08@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/gunagaran-s-k-882552327"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/Guna-garan"><img src="https://img.shields.io/badge/GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/Guna-garan"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://gunagaran-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
